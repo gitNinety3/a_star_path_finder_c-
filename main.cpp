@@ -21,7 +21,7 @@ int main()
         std::cout << "Error with the music file!" << std::endl;
      }
      
-    music.play();
+    music.play(); // plays music
     music.setLoop(true);
     
     
