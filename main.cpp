@@ -22,7 +22,7 @@ int main()
      }
      
     music.play(); // plays music
-    music.setLoop(true);
+    music.setLoop(true); // new changes
     
     
     
